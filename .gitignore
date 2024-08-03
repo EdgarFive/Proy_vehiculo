@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Incluir específicamente los archivos JAR en la carpeta libs/
+!libs/*.jar
